@@ -1,2 +1,2 @@
 # hello-world
-dome
+how are you
